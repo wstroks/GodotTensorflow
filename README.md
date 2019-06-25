@@ -71,6 +71,8 @@ No LEnDA já foi criado um classificador para o jogo Geometria em jogo e vamos u
 
 ![Demo](teste.png)
 
+![Demo](teste1.png)
+
 ## PROXIMO TUTORIAL COMO CRIAR O CLASSIFICADOR TFLITE... FIQUE LIGADO
 
 
