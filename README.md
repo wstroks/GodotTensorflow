@@ -66,9 +66,12 @@ Verifique se está igual a [foto](https://github.com/godot-extended-libraries/go
 ## Testei com outro classificador
 
 Até agora testamos o tensorflow com um classificador disponibilizado pelo proprio desenvolvedor, que tal testamos com o nosso classificador?
-No LEnDA já foi criado um classificador para o jogo Geometria em jogo e vamos utilizar o tutorial que está disponivel nesse [link](https://github.com/wstroks/tensorflowLenda). Esse classificador foi criado para rodar em um pc/notebook, sabemos que a configuração de um celular mobile é diferente, assim então, existe uma biblioteca do tensorflow chamada [tfLite](https://www.tensorflow.org/lite/guide)  criada para rodar em aplicações mobile!! Como já tenho um classificador não preciso criar um novo, basta convert para TFLITE, ou seja é possivel convert seu classificador criado no tensorflow/keras para o tflite segue o [link](https://www.tensorflow.org/lite/convert/python_api) de como fazer.
+No LEnDA já foi criado um classificador para o jogo Geometria em jogo e vamos utilizar o tutorial que está disponivel nesse [link](https://github.com/wstroks/tensorflowLenda). Esse classificador foi criado para rodar em um pc/notebook, sabemos que a configuração de um celular mobile é diferente, assim então, existe uma biblioteca do tensorflow chamada [tfLite](https://www.tensorflow.org/lite/guide)  criada para rodar em aplicações mobile!! Como já tenho um classificador não preciso criar um novo, basta convert para TFLITE, ou seja é possivel convert seu classificador criado no tensorflow/keras para o tflite segue o [link](https://www.tensorflow.org/lite/convert/python_api) de como fazer. Outro classificador criado pelo laboratório é o de Fonoterapias foi testado e segue  a img mostrando que tensorflow funciona no godot.
 
-Fazendo o passo a passo, chegamos a esse resultado
+
+![Demo](teste.png)
+
+## PROXIMO TUTORIAL COMO CRIAR O CLASSIFICADOR TFLITE... FIQUE LIGADO
 
 
 
